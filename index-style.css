@@ -39,6 +39,6 @@ div a{
   color: #ffffff;
 }
 
-div a#select{
+div a.select{
   font-weight: 700;
 }

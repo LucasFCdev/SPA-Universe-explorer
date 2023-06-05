@@ -18,7 +18,7 @@ body{
   height: 100vh;
 }
 
-div{
+main{
   display: flex;
   align-items: center;
   height: 30px;
@@ -27,7 +27,7 @@ div{
   margin-left: 7.2rem;
 }
 
-div a{
+main a{
   text-decoration: none;
   
   font-family: 'Roboto';
@@ -39,6 +39,6 @@ div a{
   color: #ffffff;
 }
 
-div a.select{
+main a.select{
   font-weight: 700;
 }

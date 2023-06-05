@@ -12,9 +12,9 @@
 
 body{
   display: grid;
-  align-items: center;
+  
   height: 100vh;
-  margin-left: 10.2rem;
+  
 
   background-image: url('/Assets/mountains-universe-3.png');
   background-repeat: no-repeat;
@@ -30,6 +30,7 @@ div{
   gap: 1.6rem;
 
   margin-top: -100px;
+  margin-left: 10.2rem;
 }
 
 div h1{
